@@ -12,6 +12,7 @@
     \ 'coc-floaterm',
     \ 'coc-html',
     \ 'coc-css',
+    \ 'coc-phpls',
     \ 'coc-emoji',
     \ 'coc-cssmodules',
     \ 'coc-yaml',
