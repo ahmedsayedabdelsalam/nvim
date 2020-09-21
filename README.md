@@ -1,5 +1,8 @@
 # NVCode
 
+# Forked From:
+https://github.com/ChristianChiarulli/nvim
+
 ![NVCode pic](./utils/images/nvim.png)
 
 ## Install in one command
