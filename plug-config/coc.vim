@@ -13,6 +13,7 @@
     \ 'coc-html',
     \ 'coc-css',
     \ 'coc-phpls',
+    \ 'coc-vetur',
     \ 'coc-emoji',
     \ 'coc-cssmodules',
     \ 'coc-yaml',

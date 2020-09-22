@@ -33,7 +33,9 @@
     "yaml",
     "json",
     "python",
-    "java"
+    "java",
+    "php",
+    "vue"
   ],
   "coc.preferences.hoverTarget": "float",
 
