@@ -38,7 +38,7 @@ bash <(curl -s https://raw.githubusercontent.com/ChristianChiarulli/nvim/master/
 - Arch
 
   ```
-  yay -S neovim-nightly-git # Latest
+  yay -S neovim-git # Latest
   ```
 
 ## Clone this repo into your config
